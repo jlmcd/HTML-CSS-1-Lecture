@@ -2,7 +2,7 @@
 
 ## Lecture Notes
 
-* <a href='https://slides.com/jonmcd/deck-13#/'>Here</a> is the slide presentation used for this lecture.
+* <a href='https://slides.com/jonmcd/deck-13#/' target="_blank">Here</a> is the slide presentation used for this lecture.
 
 ## Project Flow
 1. Review some basic terminal commands while you set up the project.
